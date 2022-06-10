@@ -1,17 +1,17 @@
-Source: cutefish-icons
+Source: yoyo-icons
 Section: x11
 Priority: optional
-Maintainer: CutefishOS <support@cutefishos.com>
+Maintainer: YoyoOS <support@yoyoos.com>
 Standards-Version: 4.5.1
 Build-Depends:
     debhelper-compat (= 12),
     gtk-update-icon-cache,
     cmake
 Rules-Requires-Root: binary-targets
-Homepage: https://cutefishos.com
+Homepage: https://yoyoos.com
 
 
-Package: cutefish-icons
+Package: yoyo-icons
 Architecture: all
 Depends: ${misc:Depends}
-Description: CutefishOS Icons
+Description: YoyoOS Icons
