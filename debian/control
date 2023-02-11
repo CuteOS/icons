@@ -1,4 +1,4 @@
-Source: yoyo-icons
+Source: cute-icons
 Section: x11
 Priority: optional
 Maintainer: YoyoOS <support@yoyoos.com>
@@ -11,7 +11,7 @@ Rules-Requires-Root: binary-targets
 Homepage: https://yoyoos.com
 
 
-Package: yoyo-icons
+Package: cute-icons
 Architecture: all
 Depends: ${misc:Depends}
-Description: YoyoOS Icons
+Description: CuteOS Icons
